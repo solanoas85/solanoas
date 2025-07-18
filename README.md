@@ -44,8 +44,7 @@ This is a testnet-born project, launched and developed from scratch using Solidi
 
 ## 📡 Links & Socials
 
-- 🐦 Twitter: [@solanoasweb3](https://twitter.com/solanoasweb3)
-- 🌐 Website: [solanoas.xyz](https://solanoas.xyz)
+- 🐦 Twitter: [@solanoasweb3](https://twitter.com/solanoasweb3
 - 💬 Telegram: [@solanoas](https://t.me/solanoas)
 - 📂 GitHub Repos: [SNOAS Token](https://github.com/solanoas85/snoas-token)
 
