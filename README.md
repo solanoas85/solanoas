@@ -1,63 +1,27 @@
-<p align="center">
-  <img src="assets/github-banner-snoas.png" alt="Solanoas Web3 banner" width="100%" />
-</p>
+# 🌐 Solanoas
 
-<h1 align="center">🌞 Solanoas Web3</h1>
+Exploring decentralized tech, open-source contribution, and creative innovation across Web3.
 
-<p align="center">
-  Exploring identity, culture and community through code.<br>
-  Web3 | Crypto | Blockchain | Token Creation | Fair Launch
-</p>
+## 👋 About Me
+I'm a Web3 builder from Brazil, passionate about developing projects on the blockchain with transparency, curiosity, and purpose.  
+I enjoy experimenting with smart contracts, participating in testnets, and contributing to early-stage ecosystems.
 
----
+## 🔧 Skills & Tools
+- Solidity & Smart Contracts  
+- Remix IDE, Hardhat, OpenZeppelin  
+- GitHub + GitHub Pages  
+- Testnets (Base, Pharos, etc)  
+- Web3 Platforms (Camp Network, ZentraFi, StoryChain, etc)
 
-## 👋 About
+## 💡 Interests
+- Fair launch mechanisms  
+- Decentralized identity  
+- Builder reputation systems  
+- NFTs & tokenized communities  
 
-I'm building the **SNOAS Token** — a decentralized token born from experimentation, transparency, and community-first values.
+## 📫 Connect
+- X (Twitter): [@Andysoares85](https://x.com/Andysoares85)  
+- Telegram: [@solanoas](https://t.me/solanoas85)  
+- Warpcast: [@solanoas85](https://warpcast.com/solanoas85)
 
-This is a testnet-born project, launched and developed from scratch using Solidity, Remix, GitHub, and fair launch platforms like ZentraFi.
-
----
-
-## 🚀 Featured Project
-
-### 🔹 [SNOAS Token (Solanoas)](https://github.com/solanoas85/snoas-token)
-
-- ✅ **Token name**: Solanoas  
-- 🧾 **Symbol**: SNOAS  
-- 🔗 [Contract on Pharos Testnet](https://testnet.pharosscan.xyz/address/0x10dA44D7D270eEC04aA904CAd60c303c7a7602Bd)  
-- 💻 Built with: Solidity, OpenZeppelin, Remix, MetaMask  
-
----
-
-## 🛠️ Tech Stack
-
-```yaml
-- Solidity
-- Ethereum & L2s (Pharos, Base, etc)
-- Remix IDE
-- GitHub + GitHub Pages
-- Web3 tooling (ZentraFi, StoryChain, MySphere)
-```
-
----
-
-## 📡 Links & Socials
-
-- 🐦 Twitter: [@solanoasweb3](https://x.com/Andysoares85
-- 💬 Telegram: [@solanoas](https://t.me/solanoas)
-- 📂 GitHub Repos: [SNOAS Token](https://github.com/solanoas85/snoas-token)
-
----
-
-## 📈 Roadmap (testnet → mainnet)
-
-- ✅ Deploy testnet contract  
-- 🔲 Launch fair launch on ZentraFi  
-- 🔲 Verify contract on Pharos  
-- 🔲 Deploy on Base or other mainnet  
-- 🔲 Community NFT + staking integration  
-
----
-
-🪐 *Building with culture, curiosity and code.*
+Let’s build something meaningful in Web3 🚀
