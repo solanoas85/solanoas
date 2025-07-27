@@ -22,6 +22,5 @@ I enjoy experimenting with smart contracts, participating in testnets, and contr
 ## 📫 Connect
 - X (Twitter): [@Andysoares85](https://x.com/Andysoares85)  
 - Telegram: [@solanoas](https://t.me/solanoas85)  
-- Warpcast: [@solanoas85](https://warpcast.com/solanoas85)
 
 Let’s build something meaningful in Web3 🚀
