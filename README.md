@@ -1,4 +1,4 @@
-# 🌐 Solanoas
+# 🌐 solanoas
 
 Exploring decentralized tech, open-source contribution, and creative innovation across Web3.
 
