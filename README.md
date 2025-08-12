@@ -1,25 +1,23 @@
-# 🌐 solanoas
+🌐 solanoas
+Web3 builder from Brazil — exploring decentralized tech, open-source, and creative innovation.
 
-Exploring decentralized tech, open-source contribution, and creative innovation across Web3.
+🔧 Skills
 
-## 👋 About Me
-I'm a Web3 builder from Brazil, passionate about developing projects on the blockchain with transparency, curiosity, and purpose.  
-I enjoy experimenting with smart contracts, participating in testnets, and contributing to early-stage ecosystems.
+Solidity, Smart Contracts (Remix, Hardhat, OpenZeppelin)
 
-## 🔧 Skills & Tools
-- Solidity & Smart Contracts  
-- Remix IDE, Hardhat, OpenZeppelin  
-- GitHub + GitHub Pages  
-- Testnets (Base, Pharos, etc)  
-- Web3 Platforms (Camp Network, ZentraFi, StoryChain, etc)
+GitHub & GitHub Pages
 
-## 💡 Interests
-- Fair launch mechanisms  
-- Decentralized identity  
-- Builder reputation systems  
-- NFTs & tokenized communities  
+Testnets: Base, Pharos, etc.
 
-## 📫 Connect
+💡 Interests
+
+Fair launches
+
+Decentralized identity
+
+NFTs & tokenized communities
+
+📫 Connect
 - X (Twitter): [@Andysoares85](https://x.com/Andysoares85)  
 - Telegram: [@solanoas](https://t.me/solanoas85)  
 
