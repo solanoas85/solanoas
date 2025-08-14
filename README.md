@@ -6,7 +6,7 @@ Web3 builder from Brazil — exploring decentralized tech, open-source, and crea
 ### 🔧 Skills  
 - 🛠 **Solidity & Smart Contracts** — Remix, Hardhat, OpenZeppelin  
 - 💻 **GitHub & GitHub Pages** — project hosting and open-source contributions  
-- 🌍 **Testnets** — Base, Pharos, and more  
+- 🌍 **Testnets** — Base, Camp Network, and more  
 
 ---
 
