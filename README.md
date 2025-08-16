@@ -21,8 +21,4 @@ Web3 builder from Brazil — exploring decentralized tech, open-source, and crea
 - 🐦 X (Twitter): [@Andysoares85](https://x.com/Andysoares85)  
 - 💬 Telegram: [@solanoas](https://t.me/solanoas85)  
 - 📝 Paragraph: [@solanoas](https://paragraph.xyz/@solanoas)  
-- 🌐 Farcaster: [@solanoas](https://farcaster.xyz/solanoas)  
-
----
-
-**Let’s build something meaningful in Web3** 🚀
+- 🌟 Wizz: [@solanoas85](https://wizzhq.xyz/profile/solanoas85)  
